@@ -1,5 +1,5 @@
 # Balls-of-steel-simulation<br>
-Physics based simulation <br>
+Physics based simulation || run the final.py <br>
 <br>
 This project simulates a Mass object (ball) in a system where it experiences the following forces and actions:<br>
 1. Gravity <br>
