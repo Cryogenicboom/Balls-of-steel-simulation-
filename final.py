@@ -123,9 +123,7 @@ def calc_motion_vector():
         y_speed = (mouse_trajectory[-1][1] - mouse_trajectory[0][1]) / len(mouse_trajectory)
     return x_speed, y_speed
 
-# ======================================================
-# New: Proper 2D Ball-to-Ball collision with momentum
-# ======================================================
+
 def check_b2b_collision(balls):
     for i in range(len(balls)):
         for j in range(i+1, len(balls)):
