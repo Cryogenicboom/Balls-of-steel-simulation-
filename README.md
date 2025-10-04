@@ -26,6 +26,11 @@ This project simulates a Mass object (ball) in a system where it experiences the
 <br>
 <img width="1612" height="706" alt="concept2" src="https://github.com/user-attachments/assets/1abed092-74bc-4bf4-ae43-c8eaf6ea1883" />
 <br><br>
+3. Improving overlap and Inverse Mass:
+<br>
+<img width="1169" height="686" alt="concept4" src="https://github.com/user-attachments/assets/a3aec040-3605-4103-8bcb-3a9573bbeb6c" />
+<br><br>
+
 
 <h3>Thank you, feel free to repo if find useful.
 <br>
